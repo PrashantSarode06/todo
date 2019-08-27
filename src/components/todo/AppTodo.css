@@ -1,0 +1,15 @@
+.AppTodo{
+    text-align:center;
+}
+.list{
+width:auto;
+}
+
+.listitem{
+list-style: none;
+}
+
+.btn{
+background-color: black;
+color: white;
+}
